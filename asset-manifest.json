@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frankman254.github.io/static/css/main.c8991add.css",
+    "main.js": "/frankman254.github.io/static/js/main.a5beef64.js",
+    "static/media/background-anime1.jpg": "/frankman254.github.io/static/media/background-anime1.e0371ee7619047bf52e0.jpg",
+    "index.html": "/frankman254.github.io/index.html",
+    "main.c8991add.css.map": "/frankman254.github.io/static/css/main.c8991add.css.map",
+    "main.a5beef64.js.map": "/frankman254.github.io/static/js/main.a5beef64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8991add.css",
+    "static/js/main.a5beef64.js"
+  ]
+}
